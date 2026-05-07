@@ -1,0 +1,25 @@
+{
+    "max_size": 3,
+    "metrics": {
+        "hits": 1,
+        "misses": 2,
+        "evictions": 1,
+        "expired_keys": 1
+    },
+    "store": [
+        [
+            "a",
+            {
+                "value": 100,
+                "expires_at": null
+            }
+        ],
+        [
+            "d",
+            {
+                "value": 400,
+                "expires_at": null
+            }
+        ]
+    ]
+}
