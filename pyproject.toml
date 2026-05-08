@@ -1,7 +1,7 @@
 [project]
 name = "aethon"
 version = "0.1.0"
-description = "A lightweight cache package"
+description = "A python cache package"
 requires-python = ">=3.10"
 
 [build-system]
